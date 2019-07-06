@@ -10,7 +10,7 @@ Requirement :
 
 Board Scheme : 
 
-Signal ->  3v nodemcu
-VCC ->  1D 
-GND ->  GND
+- Signal ->  3v nodemcu
+- VCC ->  1D 
+- GND ->  GND
 
